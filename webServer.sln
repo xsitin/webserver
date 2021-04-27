@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webServer", "webServer\webServer.csproj", "{D7D1683A-EE49-4ED1-BC65-642B9E0BB041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWorker", "FileWorker\FileWorker.csproj", "{F914E99D-9229-404B-8A1A-32F21988B1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliWebserver", "CliWebserver\CliWebserver.csproj", "{66C3D372-92F6-44D2-98B4-35E5820EE544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServerStressTest", "WebServerStressTest\WebServerStressTest.csproj", "{7F28BFDC-0022-406A-B102-90C87F31D0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D1683A-EE49-4ED1-BC65-642B9E0BB041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D1683A-EE49-4ED1-BC65-642B9E0BB041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D1683A-EE49-4ED1-BC65-642B9E0BB041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D1683A-EE49-4ED1-BC65-642B9E0BB041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F914E99D-9229-404B-8A1A-32F21988B1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F914E99D-9229-404B-8A1A-32F21988B1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F914E99D-9229-404B-8A1A-32F21988B1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F914E99D-9229-404B-8A1A-32F21988B1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C3D372-92F6-44D2-98B4-35E5820EE544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C3D372-92F6-44D2-98B4-35E5820EE544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C3D372-92F6-44D2-98B4-35E5820EE544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C3D372-92F6-44D2-98B4-35E5820EE544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F28BFDC-0022-406A-B102-90C87F31D0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F28BFDC-0022-406A-B102-90C87F31D0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F28BFDC-0022-406A-B102-90C87F31D0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F28BFDC-0022-406A-B102-90C87F31D0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/oop
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/NUnit3.TestAdapter.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/NUnit3.TestAdapter.pdb
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/nunit.engine.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/nunit.engine.api.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/nunit.engine.core.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/oop.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/oop.deps.json
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/oop.runtimeconfig.json
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/oop.pdb
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/Microsoft.DotNet.InternalAbstractions.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/NetBox.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/nunit.framework.dll
+/home/xsitin/RiderProjects/oop/oop/bin/Release/net5.0/publish/System.Xml.XPath.XmlDocument.dll

@@ -1,0 +1,14 @@
+/home/xsitin/oopPublished/publ/oop
+/home/xsitin/oopPublished/publ/NUnit3.TestAdapter.dll
+/home/xsitin/oopPublished/publ/NUnit3.TestAdapter.pdb
+/home/xsitin/oopPublished/publ/nunit.engine.dll
+/home/xsitin/oopPublished/publ/nunit.engine.api.dll
+/home/xsitin/oopPublished/publ/nunit.engine.core.dll
+/home/xsitin/oopPublished/publ/oop.dll
+/home/xsitin/oopPublished/publ/oop.deps.json
+/home/xsitin/oopPublished/publ/oop.runtimeconfig.json
+/home/xsitin/oopPublished/publ/oop.pdb
+/home/xsitin/oopPublished/publ/Microsoft.DotNet.InternalAbstractions.dll
+/home/xsitin/oopPublished/publ/NetBox.dll
+/home/xsitin/oopPublished/publ/nunit.framework.dll
+/home/xsitin/oopPublished/publ/System.Xml.XPath.XmlDocument.dll
